@@ -1,6 +1,6 @@
 # Kcc-Exhibit
 
-You can see KccExhibit live demo here: https://kcc-echibit.tk
+You can see KccExhibit live demo here: https://kcc-exhibit.tk
 
 # KccExihibt is a website built over MERN stack. KccExhibit uses ReactJs as frontend framework, NextJs on the top of ReactJs, NodeJs as backend, ExpressJs as backend framework and MongoDB as its primary database.
 
