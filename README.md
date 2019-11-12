@@ -14,7 +14,7 @@ check followings are installed in your computer:<br />
       
 # step 2:
 open up a terminal in the project directory => "KccExhibit"<br />
-      2.1 Type "npm install": Install the necessary dependencies for the project.<br />
-      2.2 Then, type "sudo service mongod start": Starts the mongo server.<br />
-      2.3 Finally, type "npm run dev": Running app in the development mode.<br />
+      2.1 Type "npm install" => Install the necessary dependencies for the project.<br />
+      2.2 Then, type "sudo service mongod start" => Starts the mongo server.<br />
+      2.3 Finally, type "npm run dev" => Running app in the development mode.<br />
       2.4 Hola, hit "localhost:3000" in your favourite browser. The website is running.<br />
