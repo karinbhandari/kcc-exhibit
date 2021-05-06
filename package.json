@@ -34,7 +34,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-draft-wysiwyg": "^1.13.2",
+    "react-draft-wysiwyg": "^1.14.6",
     "react-swipeable-views": "^0.13.3",
     "react-swipeable-views-utils": "^0.13.3"
   },
