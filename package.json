@@ -24,7 +24,7 @@
     "date-fns": "^2.4.1",
     "draft-js": "^0.11.1",
     "draftjs-to-html": "^0.8.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs-extra": "^8.1.0",
     "material-ui-dropzone": "^2.4.1",
     "mongoose": "^5.7.3",
